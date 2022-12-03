@@ -1,0 +1,102 @@
+{
+  "students": [
+    {
+      "id": "1668713768978",
+      "number": "145",
+      "name": "AKİF",
+      "surname": "ER",
+      "stdClass": "3/A"
+    },
+    {
+      "id": "1668758175801",
+      "number": "100",
+      "name": "ASIM ",
+      "surname": "SERDAR",
+      "stdClass": "1/A"
+    },
+    {
+      "id": "1668890911683",
+      "number": "101",
+      "name": "BİLAL",
+      "surname": "SONSES",
+      "stdClass": "3/B"
+    },
+    {
+      "id": "1668927084728",
+      "number": "1",
+      "name": "ADEM ",
+      "surname": "ASLAN",
+      "stdClass": "4/A"
+    },
+    {
+      "id": "1668927141815",
+      "number": "2",
+      "name": "HIZIR",
+      "surname": "GÜZELLİK ",
+      "stdClass": "1/A"
+    },
+    {
+      "id": "1669052750289",
+      "number": "115",
+      "name": "MAHMUT",
+      "surname": "SES",
+      "stdClass": "2/C"
+    },
+    {
+      "id": "1669058803424",
+      "number": "155",
+      "name": "FIKRET",
+      "surname": "HAKAN",
+      "stdClass": "2/A"
+    },
+    {
+      "id": "1669274376815",
+      "number": "25",
+      "name": "ZEYNEP",
+      "surname": "DERYA",
+      "stdClass": "1/A"
+    },
+    {
+      "id": "1669279773203",
+      "number": "3",
+      "name": "HARUN",
+      "surname": "IVME",
+      "stdClass": "2/B"
+    },
+    {
+      "id": "1669279846284",
+      "number": "4",
+      "name": "MEHMET",
+      "surname": "CAKAL",
+      "stdClass": "4/C"
+    },
+    {
+      "id": "1669287778465",
+      "number": "22",
+      "name": "SEYFI",
+      "surname": "DAYU",
+      "stdClass": "3/A"
+    },
+    {
+      "id": "1669315594100",
+      "number": "44",
+      "name": "SÜRMELI",
+      "surname": "ZÜLKÜF",
+      "stdClass": "4/A"
+    },
+    {
+      "id": "1669901974558",
+      "number": "629",
+      "name": "DERYA",
+      "surname": "YANIK",
+      "stdClass": "4/B"
+    },
+    {
+      "id": "1669902021303",
+      "number": "111",
+      "name": "VEDAT",
+      "surname": "SOLMAZ",
+      "stdClass": "3/B"
+    }
+  ]
+}
